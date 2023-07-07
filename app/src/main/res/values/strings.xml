@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Takent Class Tab Layout dan View Pager</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="major">Major</string>
+    <string name="semester">Semester</string>
+    <string name="back">Back</string>
+    <string name="tab_text_1">Batch 7</string>
+    <string name="tab_text_2">Batch 8</string>
+
+    <!--Data Batch 7-->
+    <string-array name="data_name_batch7">
+        <item>Rizky Pratiwi</item>
+        <item>Dian Suryadi</item>
+        <item>Fitriani Setiawan</item>
+        <item>Siti Rahmawati</item>
+        <item>Ahmad Maulana</item>
+        <item>Rina Puspitasari</item>
+        <item>Budi Santoso</item>
+        <item>Indah Sari Dewi</item>
+        <item>Agung Kurniawan</item>
+        <item>Rizaldi Putra</item>
+    </string-array>
+
+    <string-array name="data_email_batch7">
+        <item>rizkypratiwi@gmail.com</item>
+        <item>dian.suryadi@gmail.com</item>
+        <item>fitrianisetiawan@gmail.com</item>
+        <item>sitirahmawati@gmail.com</item>
+        <item>ahmadmaulana@gmail.com</item>
+        <item>rinapuspitasari@gmail.com</item>
+        <item>budisantoso@gmail.com</item>
+        <item>indahsaridewi@gmail.com</item>
+        <item>agungkurniawan@gmail.com</item>
+        <item>rizaldiputra@gmail.com</item>
+    </string-array>
+
+    <string-array name="data_major_batch7">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Ilmu Komputer</item>
+        <item>Teknik Komputer</item>
+        <item>Teknik Telekomunikasi</item>
+        <item>Rekayasa Perangkat Lunak</item>
+        <item>Keamanan Informasi</item>
+        <item>Data Science</item>
+        <item>Jaringan Komputer</item>
+        <item>Manajemen Sistem Informasi</item>
+    </string-array>
+
+    <string-array name="data_semester_batch7">
+        <item></item>
+        <item>5</item>
+        <item>2</item>
+        <item>9</item>
+        <item>7</item>
+        <item>3</item>
+        <item>8</item>
+        <item>6</item>
+        <item>1</item>
+        <item>4</item>
+        <item>9</item>
+    </string-array>
+
+    <integer-array name="data_photo_batch7">
+        <item>@drawable/talentclassbatch7_people0</item>
+        <item>@drawable/talentclassbatch7_people1</item>
+        <item>@drawable/talentclassbatch7_people2</item>
+        <item>@drawable/talentclassbatch7_people3</item>
+        <item>@drawable/talentclassbatch7_people4</item>
+        <item>@drawable/talentclassbatch7_people5</item>
+        <item>@drawable/talentclassbatch7_people6</item>
+        <item>@drawable/talentclassbatch7_people7</item>
+        <item>@drawable/talentclassbatch7_people8</item>
+        <item>@drawable/talentclassbatch7_people9</item>
+    </integer-array>
+
+    <!--Data Batch 8-->
+
+    <string-array name="data_name_batch8">
+        <item>Adrian Terasta Ginting</item>
+        <item>Ethan Christopher Williams</item>
+        <item>Sophia Grace Thompson</item>
+        <item>Ava Victoria Martinez</item>
+        <item>Benjamin Harrison Lee</item>
+        <item>Noah Alexander Davis</item>
+        <item>Liam Michael Anderson</item>
+        <item>Isabella Rose Wilson</item>
+        <item>Mikael Taylor</item>
+        <item>Lucas Daniel Brown</item>
+    </string-array>
+
+    <string-array name="data_email_batch8">
+        <item>gintingjawak55@gmail.com</item>
+        <item>ethan.c.williams@gmail.com</item>
+        <item>sophia.g.thompson@gmail.com</item>
+        <item>ava.v.martinez@gmail.com</item>
+        <item>benjamin.h.lee@gmail.com</item>
+        <item>noah.a.davis@gmail.com</item>
+        <item>liam.m.anderson@gmail.com</item>
+        <item>isabella.r.wilson@gmail.com</item>
+        <item>mikael.taylor@gmail.com</item>
+        <item>lucas.d.brown@gmail.com</item>
+    </string-array>
+
+    <string-array name="data_major_batch8">
+        <item>Teknologi Informasi</item>
+        <item>Rekayasa Perangkat Lunak</item>
+        <item>Keamanan Siber</item>
+        <item>Jaringan Komputer</item>
+        <item>Pengembangan Aplikasi Mobile</item>
+        <item>Analisis Data</item>
+        <item>Kecerdasan Buatan (Artificial Intelligence)</item>
+        <item>Sistem Basis Data</item>
+        <item>Desain Grafis dan Multimedia</item>
+        <item>Teknologi Cloud Computing</item>
+    </string-array>
+
+    <string-array name="data_semester_batch8">
+        <item>8</item>
+        <item>3</item>
+        <item>9</item>
+        <item>2</item>
+        <item>6</item>
+        <item>1</item>
+        <item>1</item>
+        <item>8</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+
+    <integer-array name="data_photo_batch8">
+        <item>@drawable/talentclassbatch8_people0</item>
+        <item>@drawable/talentclassbatch8_people1</item>
+        <item>@drawable/talentclassbatch8_people2</item>
+        <item>@drawable/talentclassbatch8_people3</item>
+        <item>@drawable/talentclassbatch8_people4</item>
+        <item>@drawable/talentclassbatch8_people5</item>
+        <item>@drawable/talentclassbatch8_people6</item>
+        <item>@drawable/talentclassbatch8_people7</item>
+        <item>@drawable/talentclassbatch8_people8</item>
+        <item>@drawable/talentclassbatch8_people9</item>
+    </integer-array>
+
+</resources>
